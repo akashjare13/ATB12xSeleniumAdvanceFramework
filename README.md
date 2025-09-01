@@ -1,6 +1,6 @@
 # Selenium Automation Framework(with Java)
 - Author - Akash
-- Selenium framework Code
+- Selenium Code
 
 - Java, Selenium, TestNG
 - Maven, AssertJ, POM
